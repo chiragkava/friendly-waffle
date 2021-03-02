@@ -1,3 +1,4 @@
+
 # What is Markdown?
 
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
@@ -60,3 +61,12 @@ As Kanye West said:
 "This is some text 
 blah blah blah
 "  
+=======
+# This is friendly waffle
+
+**frok**
+- submitted for review
+- that's how it's work 
+
+_What we are going to do int it_
+
